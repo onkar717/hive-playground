@@ -1,2 +1,2 @@
 # hive-playground
-Throwaway repo for testing Hive on kind
+Throwaway repo for testing [Hive](https://github.com/hivecommons/hive) on kind.
